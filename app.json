@@ -1,0 +1,26 @@
+{
+  "name": "ImFree",
+  "displayName": "Gathos have never been so easy to organise",
+  "expo": {
+    "name": "ImFree",
+    "slug": "imfree",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "description": "",
+     "ios": {
+      "bundleIdentifier": "com.brendonovich.ImFree",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.brendonovich.ImFree",
+      "versionCode": 1
+    }
+  }
+}
